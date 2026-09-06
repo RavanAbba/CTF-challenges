@@ -1,4 +1,4 @@
-# Wireshork (DNS) — Writeup
+# Wireshork (DNS) - Writeup
 
 **Flag:** `S2G{dns_3xf1ldaw10kcmd9}`
 

@@ -1,4 +1,4 @@
-# Spaghetti — Writeup
+# Spaghetti - Writeup
 
 **Flag:** `S2G{shark_in_the_packets_hide_and_seek}`
 

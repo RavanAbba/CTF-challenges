@@ -7,6 +7,7 @@ techniques, and how they were built.
 ## Categories
 
 - [`forensics/`](forensics) - network forensics & packet analysis (Wireshark)
+- [`pwn/`](pwn) - binary exploitation (stack overflows, ret2win)
 
 More categories will be added here as they're built.
 

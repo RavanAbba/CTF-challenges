@@ -1,4 +1,4 @@
-# Sharks Revenge — Writeup
+# Sharks Revenge - Writeup
 
 **Flag:** `S2G{fb1_t0p_s3cr3333t911911911911}`
 

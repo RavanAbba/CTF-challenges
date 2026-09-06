@@ -1,4 +1,4 @@
-# Chatlog — Writeup
+# Chatlog - Writeup
 
 **Flag:** `S2G{tcp_stream_xor_base64_ftw}`
 
