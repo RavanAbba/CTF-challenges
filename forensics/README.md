@@ -24,19 +24,17 @@ challenges/   the files a participant gets: capture + a short prompt, no spoiler
 writeups/     my solution for each challenge, including the flag
 ```
 
-If you want to try a challenge yourself, open its folder under `challenges/`
-and stop there — the matching file under `writeups/` gives away the answer.
 
 ## How these were built
 
-Each challenge is generated from a small local setup (a plain HTTP server, a
+Each challenge is made from a small local setup (a plain HTTP server, a
 TLS-enabled server run alongside a keylog, a scripted "chat" over a raw TCP
 socket, etc.) captured live with `tcpdump`/Wireshark. The `capture.pcap(ng)`
 in each folder is the raw traffic; where decryption is part of the puzzle
 (TLS challenges), the necessary key material ships alongside it.
 
 Metadata files (`meta.xml`) used for deploying these to a CTF platform are
-kept out of this repo since they embed the flag values directly — see the
+kept out of this repo since they embed the flag values directly. Look at the
 writeups instead for the answers.
 
 ## Author
